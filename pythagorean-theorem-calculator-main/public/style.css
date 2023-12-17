@@ -1,0 +1,23 @@
+body{
+    padding: 30px;
+    
+}
+
+h1{
+    padding-bottom: 40px;
+}
+
+.pealkiri{
+    padding: 20px;
+    border-radius: 2rem;
+    color: rgb(205, 239, 255);
+}
+header{
+    padding-bottom: 20px;
+}
+
+main{
+   border-radius: 2rem;
+   padding: 30px;
+   color: rgb(255, 255, 255);
+}
